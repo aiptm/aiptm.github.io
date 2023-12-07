@@ -1,0 +1,37 @@
+{
+  "name": "Elina",
+  "lastname": "Mukhamatkhanova",
+  "email": "aiptm@icloud.com",
+  "age": "25",
+  "position": "Fronted Web Developer",
+  "summary": "Progressive thinking self-learner with 1,5 years of experience in frontend web-development\nand strong junior-level skills (with the ability to handle middle-level tasks),\nhave good communication with other specialists participating in the same project,\nand constantly learn new.",
+  "employment-history": [
+    {
+      "position": "Junior Frontend Developer",
+      "copmpany": "Uchi.ru",
+      "date": {
+        "from": "Jul 2022",
+        "to": "present"
+      },
+      "description": ["Developing product for internal using (cms)", "Developing UI according to Figma layouts (including adaptiveness)", "Code refactoring", "Supporting legacy projects", "Writing unit-tests"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Saint-Petersburg Mining University",
+      "degree": "Specialist",
+      "date": {
+        "from": "Sep 2016",
+        "to": "Jul 2021"
+      }
+    }
+  ],
+  "skills": ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "React", "MobX", "Redux", "Responsive Design", "Git"],
+  "languages": ["Russian (native)", "English (B2)"],
+  "links": [
+    {
+      "title": "GitHub Profile",
+      "url": "https://github.com/eeeoox"
+    }
+  ]
+}

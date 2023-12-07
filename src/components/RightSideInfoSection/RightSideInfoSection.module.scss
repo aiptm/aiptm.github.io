@@ -1,0 +1,9 @@
+.rightSectionContainer {
+  width: 743px;
+  margin-right: 50px;
+
+  @media (max-width: 450px) {
+    margin: 0;
+    width: 100%;
+  }
+}

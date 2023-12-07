@@ -1,0 +1,22 @@
+.headerContainer {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: rgb(48, 48, 48);
+}
+
+.headerWrapper {
+  width: 990px;
+  margin: 0 auto;
+
+  @media (max-width: 1024px) {
+    padding: 0px 28px;
+  }
+}
+
+.headerTitle {
+  margin: 0px;
+  font-size: 36px;
+}

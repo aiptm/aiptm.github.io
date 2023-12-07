@@ -1,0 +1,1 @@
+export { RightSideInfoSection } from './RightSideInfoSection';
